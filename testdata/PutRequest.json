@@ -1,0 +1,11 @@
+{
+    "firstname" : "kalyani",
+    "lastname" : "Nelluri",
+    "totalprice" : 2000,
+    "depositpaid" : true,
+    "bookingdates" : {
+         "checkin": "2026-06-24",
+            "checkout": "2026-06-26"
+    },
+    "additionalneeds" : "Breakfast"
+}
